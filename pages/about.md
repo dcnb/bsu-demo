@@ -5,16 +5,10 @@ permalink: /about.html
 ---
 {% include feature/jumbotron.html %} 
 
-{% include feature/nav-menu.html sections="About the Collection Builder CDM Skin" %}
+{% include feature/nav-menu.html sections="About the Collection" %}
 
-## About the Collection Builder CDM Skin
+## About the Collection
 
-This demo collection features items from the University of Idaho Library's [Psychiana Digital Collection](https://www.lib.uidaho.edu/digital/psychiana/), and is build using [CollectionBuilder-CONTENTdm](https://github.com/CollectionBuilder/collectionbuilder-contentdm).
+From as far back as the school's opening day as Boise Junior College on September 6, 1932, photographers have captured on film the buildings, people, events, and academic endeavors that have made Boise State University such an important part of the city of Boise and state of Idaho. Historic Boise State presents several hundred images that document the university’s history. Most come from the print collection in the Archives and are concentrated in the decades from the 1930s to 2000s.
 
-CollectionBuilder-CONTENTdm is a template for creating digital collection exhibits on top of existing CONTENTdm repositories. 
-The demo collection features images, document pdfs, audio, and YouTube video items to demonstrate the range of possibilities using the CollectionBuilder visualizations.
-
-Psychiana was a "mail order" religion popular in the 1930s and 40s.
-Visit the full [Psychiana Digital Collection](https://www.lib.uidaho.edu/digital/psychiana/) (also built with a version of CollectionBuilder) or the [Frank B. Robinson Papers](http://archiveswest.orbiscascade.org/ark:/80444/xv97133/op=fstyle.aspx?t=k&q=psychiana) finding aid to learn more.
-
-{% include feature/item-figure.html objectid="demo_psychiana554" width="75" %} 
+{% include feature/item-figure.html objectid="historicboise810" width="75" %} 
