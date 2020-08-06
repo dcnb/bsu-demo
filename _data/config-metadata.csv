@@ -1,18 +1,26 @@
 field,display_name,browse_link,dc_map,schema_map
 title,Title,,DCTERMS.title,headline
 creator,Creator,,DCTERMS.creator,creator
-recipient,Recipient,
+publisher,Publisher,
 date,Date Created,,DCTERMS.created,dateCreated
 date-is-approximate,Approximated Date
 description,Description,,DCTERMS.description,description
+bio/historical note,Bio/Historical Note,
+reference,Reference
 item-information,Item Information,
 subject,Subjects,true,DCTERMS.subject,keywords
+subject (tcau),Subjects (tcau),true,
+building name,Building,true,
+organizations,Organizations,true,
+campus events,Events,true
+people,People,true
 location,Location,,,contentLocation
-latitude,Latitude
-longitude,Longitude
-source,Source
+collection,Collection
 identifier,Source Identifier
-type,Type,,DCTERMS.type
-format original,Format Original
+resource type,Type,,DCTERMS.type
+original physical format,Format Original
 format,Format,,,encodingFormat
+exhibits,Exhibits
+contributing institution,Contributors
+language,Language
 rightsstatement,,,DCTERMS.rights,license
