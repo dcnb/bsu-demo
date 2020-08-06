@@ -2,3 +2,12 @@ field,display_name,btn,hidden
 date,Date,
 creator,Creator,
 subject,,true
+location,,true
+people,,true
+building name,,true
+organizations,,true
+subject (tcau),,true
+campus events,,true
+description,,,true
+bio/historical note,,,true
+
